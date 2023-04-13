@@ -1,27 +1,33 @@
 {
     "name":"Example Listing",
     "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "url":"https://rurre.github.io/pumkins-vcc-stuff/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"",
+        "name":"Pumkin",
+        "url":"https://github.com/rurre"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Pumkin's VRChat Stuff",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/rurre/pumkins-vcc-stuff",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "rurre/PumkinsAvatarTools",
+        "rurre/Editor-Screenshot"
     ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"pumkin.pumkinsavatartools",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/rurre/PumkinsAvatarTools/archive/refs/tags/1.3.7.zip"
+            ]
+        },
+        {
+            "name":"com.pumkin.editorscreenshot",
+            "releases":[
+                "https://github.com/rurre/Editor-Screenshot/archive/refs/tags/1.1.1.zip"                
             ]
         }
     ]
