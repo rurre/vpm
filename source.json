@@ -1,14 +1,14 @@
 {
     "name":"Pumkin's VPM Repo",
     "id":"io.github.rurre",
-    "url":"https://rurre.github.io/pumkins-vcc-stuff/index.json",
+    "url":"https://rurre.github.io/vpm/index.json",
     "author":{
         "name":"Pumkin",
         "url":"https://github.com/rurre"
     },
-    "description":"Pumkin's VRChat Stuff",
+    "description":"A listing of Pumkin's VPM packages",
     "infoLink":{
-        "url":"https://github.com/rurre/pumkins-vcc-stuff",
+        "url":"https://github.com/rurre/vpm",
         "text":"View on GitHub"
     },
     "bannerUrl":"",
