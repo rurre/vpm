@@ -16,3 +16,7 @@ In the VPM Interface, select your project, locate the `Selected Repos` dropdown,
 ## Manual Usage
 
 Each package has its own repository, and usually contains a standalone package distribution, as well as a VPM-compatible package distribution. If you want to use the standalone package, you can download it from the releases page of the package's repository.
+
+## Special Thanks
+- [konsti219](https://github.com/konsti219) for help setting stuff up.
+- [rrazgriz](https://github.com/rrazgriz) for reference. It's also who I stole this readme from.
