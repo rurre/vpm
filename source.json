@@ -1,6 +1,6 @@
 {
     "name":"Pumkin's VPM Repo",
-    "id":"io.github.rurre",
+    "id":"io.github.rurre.vpm",
     "url":"https://rurre.github.io/vpm/index.json",
     "author":{
         "name":"Pumkin",
@@ -15,6 +15,5 @@
     "githubRepos":[
         "rurre/PumkinsAvatarTools",
         "rurre/Editor-Screenshot"
-    ],
-    "packages":[]
+    ]
 }
