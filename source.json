@@ -1,6 +1,6 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
+    "name":"Pumkin's VPM Repo",
+    "id":"io.github.rurre",
     "url":"https://rurre.github.io/pumkins-vcc-stuff/index.json",
     "author":{
         "email":"",
@@ -17,18 +17,5 @@
         "rurre/PumkinsAvatarTools",
         "rurre/Editor-Screenshot"
     ],
-    "packages":[
-        {
-            "name":"pumkin.pumkinsavatartools",
-            "releases":[
-                "https://github.com/rurre/PumkinsAvatarTools/archive/refs/tags/1.3.7.zip"
-            ]
-        },
-        {
-            "name":"com.pumkin.editorscreenshot",
-            "releases":[
-                "https://github.com/rurre/Editor-Screenshot/archive/refs/tags/1.1.1.zip"                
-            ]
-        }
-    ]
+    "packages":[]
 }
